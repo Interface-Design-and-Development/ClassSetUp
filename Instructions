@@ -2,17 +2,47 @@ Make sure you read the file labeled README first. Then, come back here.
 
 Now that you have read a bit about GitHub and how it works, we want to make sure you can use it.
 
-Below is a short sequence of numbers. Using the edit button in the upper-right hand corner, change the sequence of digits to be sorted in ascending order.
+Below is a short sequence of numbers. Right-click the edit button in the upper-right hand corner and select "Open in new tab." This will allow you to see the saved version of the instructioons while you complete the tasks below.
+Now, on the editing tab, change the sequence of digits to be sorted in ascending order.
 
-6 34 9 4 9567 345 11 2 ghh
+6 34 9 4 9567 345 11 2
 
-Once you have edited the list, click the "commit changes..." button in the upper right hand corner. You do not need to add a message or description. 
+Once you have edited the list, click the "commit changes..." button in the upper right hand corner.
+You do not need to add a message or description, but make sure you select "Create a new branch for this commit and start a pull request."
+A text box should appear. This will be the name of the branch created by the pull rrequest. You can change it or leave it as-is.
+Click "propose changes." This should take you to a new page where you can title your pull request, add a description, etc. 
+You don't need to worry about these features for the purposes of this class, but they are very helpful if you use GitHub for work or contribute to open-source projects in your free time.
+When you are ready, click the green "Create pull request" button.
 
-You should now be able to hover over the sequence above and see the change you made.
+You should be taken to the landing page of your pull request. Note: if you lose this page, you can find it again by going to the home page of your repository and clicking "pull requests," then clicking on the title of the request you made.
+The landing page for a pull request is its "conversation" page. Here, you can comment on updates made by team members, review code in the pull request, and more. Explore a little bit.
 
-Pull requests are like little updates to the code, and being able to see each individual change is valuable when debugging and fixing issues that come up.
+Now click on the "commits" tab. You should see the changes to made to this file in a commit called "Update Instructions" (unless you changed it.)
+Click on your commit. You can now see these instructions again, but where you changed the numbers above should be highlighted green.
 
-For the rest of these instructions, please add a new file to this repository by clicking the create button on the repository's homepage.
+If this was someone else's commit, you may want to click the "review changes" button and leave a comment on what they've done, still need to do, etc. You can also approve their request or request them to edit it.
 
-Name your file "yourtwuusername_GitHub_Practice".
+Navigate back to the "conversations" tab. You should see an item that says "no conflcits with base branch." This means that if we merge the pull request with the original branch, (in this case, main), the code will not conflict.
+You may now click the green "merge pull request" button. You may title the merge and leave a description, but you do not have to. Then, click "confirm merge."
 
+Now, navigate back to the "code" tab. The Instructions file should now say "1 minute ago." You can click on the dropdown menu at the top that says "main." Click "view all branches."
+Click the trashcan icon next to the branch you made when you made your pull request. Now refresh the page. "Main" should now be your only branch.
+
+That is how a pull request works! There are a lot of little variables to tweak and explore, so feel free to create a demo repository on your profile to play around with branches, commits, and pulls.
+For the first few assignments, we will be using GitHub individually, so you don't need to worry about the collaborative features yet.
+
+Go back to the "Code" page and click the "add file" button, then click "create new file."
+
+Name your file "yourtwuusername_GitHub_Practice" and leave it in the main branch.
+
+In your practice file, please answer the following:
+
+Rate your experience using github for this course on a scale from 1-5, with 1 being you've never used it before and 5 being I already knew all of this and more.
+
+Rate how comfortable you are using github for this course on a scale from 1-5.
+
+Let me know if you have any questions or concerns about using GitHub for this course.
+
+Once you have answered these questions, click "commit changes" and select "commit directly to main branch."
+
+You're done! Make sure that this page with the correctly ordered digits and your practice file are saved correctly.
