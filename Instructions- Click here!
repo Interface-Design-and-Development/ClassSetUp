@@ -5,7 +5,7 @@ Now that you have read a bit about GitHub and how it works, we want to make sure
 Below is a short sequence of numbers. Right-click the edit button in the upper-right hand corner and select "Open in new tab." This will allow you to see the saved version of the instructioons while you complete the tasks below.
 Now, on the editing tab, change the sequence of digits to be sorted in ascending order.
 
-6 34 9 4 9567 345 11 2
+2 4 6 9 11 34 345 9567
 
 Once you have edited the list, click the "commit changes..." button in the upper right hand corner.
 You do not need to add a message or description, but make sure you select "Create a new branch for this commit and start a pull request."
